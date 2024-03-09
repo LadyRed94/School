@@ -1,0 +1,6 @@
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/Game_of_Life/Game_of_Life/bin/Debug/Game_of_Life.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/Game_of_Life/Game_of_Life/bin/Debug/Game_of_Life.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/Game_of_Life/Game_of_Life/obj/Debug/Game_of_Life.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/Game_of_Life/Game_of_Life/obj/Debug/Game_of_Life.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/Game_of_Life/Game_of_Life/obj/Debug/Game_of_Life.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/Game_of_Life/Game_of_Life/obj/Debug/Game_of_Life.csprojAssemblyReference.cache

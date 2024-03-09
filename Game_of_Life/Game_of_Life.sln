@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_of_Life", "Game_of_Life\Game_of_Life.csproj", "{5D08CD60-53F0-403A-924D-6914F85F3BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D08CD60-53F0-403A-924D-6914F85F3BFF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5D08CD60-53F0-403A-924D-6914F85F3BFF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5D08CD60-53F0-403A-924D-6914F85F3BFF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5D08CD60-53F0-403A-924D-6914F85F3BFF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

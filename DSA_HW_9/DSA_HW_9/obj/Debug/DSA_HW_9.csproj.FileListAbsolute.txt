@@ -1,0 +1,6 @@
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_HW_9/DSA_HW_9/bin/Debug/DSA_HW_9.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_HW_9/DSA_HW_9/bin/Debug/DSA_HW_9.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_HW_9/DSA_HW_9/obj/Debug/DSA_HW_9.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_HW_9/DSA_HW_9/obj/Debug/DSA_HW_9.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_HW_9/DSA_HW_9/obj/Debug/DSA_HW_9.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_HW_9/DSA_HW_9/obj/Debug/DSA_HW_9.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_Lab_Week_8/DSA_Lab_Week_8/bin/Debug/DSA_Lab_Week_8.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_Lab_Week_8/DSA_Lab_Week_8/bin/Debug/DSA_Lab_Week_8.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_Lab_Week_8/DSA_Lab_Week_8/obj/Debug/DSA_Lab_Week_8.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_Lab_Week_8/DSA_Lab_Week_8/obj/Debug/DSA_Lab_Week_8.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_Lab_Week_8/DSA_Lab_Week_8/obj/Debug/DSA_Lab_Week_8.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DSA_Lab_Week_8/DSA_Lab_Week_8/obj/Debug/DSA_Lab_Week_8.csproj.AssemblyReference.cache

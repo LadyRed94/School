@@ -1,0 +1,6 @@
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/K-Means/K-Means/bin/Debug/K-Means.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/K-Means/K-Means/bin/Debug/K-Means.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/K-Means/K-Means/obj/Debug/K-Means.csprojAssemblyReference.cache
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/K-Means/K-Means/obj/Debug/K-Means.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/K-Means/K-Means/obj/Debug/K-Means.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/K-Means/K-Means/obj/Debug/K-Means.pdb

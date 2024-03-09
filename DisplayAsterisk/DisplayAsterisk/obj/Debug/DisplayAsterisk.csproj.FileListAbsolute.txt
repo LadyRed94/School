@@ -1,0 +1,11 @@
+/Users/alex/Projects/DisplayAsterisk/DisplayAsterisk/obj/Debug/DisplayAsterisk.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/DisplayAsterisk/DisplayAsterisk/bin/Debug/DisplayAsterisk.exe
+/Users/alex/Projects/DisplayAsterisk/DisplayAsterisk/bin/Debug/DisplayAsterisk.pdb
+/Users/alex/Projects/DisplayAsterisk/DisplayAsterisk/obj/Debug/DisplayAsterisk.exe
+/Users/alex/Projects/DisplayAsterisk/DisplayAsterisk/obj/Debug/DisplayAsterisk.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DisplayAsterisk/DisplayAsterisk/bin/Debug/DisplayAsterisk.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DisplayAsterisk/DisplayAsterisk/bin/Debug/DisplayAsterisk.pdb
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DisplayAsterisk/DisplayAsterisk/obj/Debug/DisplayAsterisk.csproj.AssemblyReference.cache
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DisplayAsterisk/DisplayAsterisk/obj/Debug/DisplayAsterisk.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DisplayAsterisk/DisplayAsterisk/obj/Debug/DisplayAsterisk.exe
+/Users/alex/Desktop/Desktop/Evergreen State College/Fall_2020/Data_Structures_and_Algorithms/DisplayAsterisk/DisplayAsterisk/obj/Debug/DisplayAsterisk.pdb
